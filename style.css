@@ -120,15 +120,6 @@ nav a:hover {
 /* Additional styles as needed for other sections */
 
 /* Responsive styles */
-@media (max-width: 768px) {
-    .container {
-        padding: 10px;
-    }
-    /* Add more responsive styles as needed */
-    /* Large screens and desktops */
-   .container {
-       max-width: 1140px;
-  }
 
 /* Tablets and smaller desktops */
 @media (max-width: 1024px) {
